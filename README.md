@@ -22,8 +22,8 @@ If you followed the previws steps, you will see somethig like this:
 whwn you see  ***(folder_name)*** at the begining of your path, that means that the **venv*** has been activated sucessfully and all the package and libraries will be installed on you ***venv*** and not on you local machine
 
 ### Finally, do not forget to import the library
-`from fastapi import	FastAPI, Body`
-`from fastapi import	FastAPI, Query`
+`from fastapi import FastAPI, Body`
+`from fastapi import FastAPI, Query`
 `from pydantic import BaseModel`
 
 and that's it, LET'S CODE !
