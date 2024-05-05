@@ -19,7 +19,7 @@ and finally you must run the command `.\activate.ps1`
 If you followed the previws steps, you will see somethig like this:
 ![screanshot](venv.png)
 
-whwn you see  ***(folder_name)*** at the begining of your path, that means that the **venv*** has been activated sucessfully and all the package and libraries will be installed on you ***venv*** and not on you local machine
+when you see  ***(folder_name)*** at the begining of your path, that means that the **venv*** has been activated sucessfully and all the package and libraries will be installed on you ***venv*** and not on you local machine
 
 ### Finally, do not forget to import the library
 `from fastapi import FastAPI, Body`
